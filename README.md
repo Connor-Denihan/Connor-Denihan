@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Connor Denihan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=connor-denihan&label=Profile%20views&color=0e75b6&style=flat" alt="connor-denihan" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connor-denihan" alt="connor-denihan" /></a> </p>
 
 - 🌱 I’m currently learning **C++ & Python**
@@ -15,7 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connor-denihan&show_icons=true&locale=en" alt="connor-denihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connor-denihan&" alt="connor-denihan" /></p>
-
 
 <!---
 Connor-Denihan/Connor-Denihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
